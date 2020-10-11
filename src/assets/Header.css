@@ -1,0 +1,11 @@
+
+.header{
+    background-color: #20232a;
+}
+
+.center-header{
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

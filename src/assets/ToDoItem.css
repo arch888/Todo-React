@@ -1,0 +1,17 @@
+.todo-item-text{
+    border: none;
+    width: 100%;
+}
+
+input:focus {
+    outline: none;
+}
+
+.remove-item{
+    background-color: rgb(220, 0, 0);
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 10px;
+    border-radius: 100px;
+    cursor: pointer;
+}
